@@ -18,13 +18,14 @@
    return facts;
  }
  
- function iLoveTheBeatles(iLoveTheBeatles){
+ function iLoveTheBeatles(number){
    var emptyArray = [];
   
    do {
      
+     number++;
    }
-   while (i<15);
+   while (number<15);
    
  }
  
