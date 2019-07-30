@@ -26,7 +26,7 @@
      number++;
    }
    while (number<15);
-   return 
+   return emptyArray;
    
  }
  
