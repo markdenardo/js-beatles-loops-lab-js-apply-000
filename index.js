@@ -10,10 +10,8 @@
  
  function johnLennonFacts(factsArray){
     var i=0;
-    factsArray = ["He was the last Beatle to learn to drive",
-  "He was never a vegetarian",
-  "He was a choir boy and boy scout",
-  "He hated the sound of his own voice"]
+    var factsArray = 
+    ["He was the last Beatle to learn to drive","He was never a vegetarian","He was a choir boy and boy scout","He hated the sound of his own voice"];
     while (factsArray[i]<factsArray.length){
        return factsArray[i]+"!!!";
       i++;
