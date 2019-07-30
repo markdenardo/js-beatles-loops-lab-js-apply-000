@@ -22,10 +22,11 @@
    var emptyArray = [];
   
    do {
-     
+     emptyArray.push("I Love the Beatles!")
      number++;
    }
    while (number<15);
+   return 
    
  }
  
