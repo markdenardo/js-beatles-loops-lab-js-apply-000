@@ -10,8 +10,9 @@
  
  function johnLennonFacts(factsArray){
     var i=0;
+    
     while (factsArray[i]<factsArray.length){
-      text += factsArray[i]+"!!!";
+      facts += factsArray[i]+"!!!";
       i++;
     }
  }
