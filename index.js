@@ -8,7 +8,7 @@
   return theBeatlesPlay;
  }
  
- function johnLennonFacts(ArrayBuffer){
+ function johnLennonFacts(factArray){
     var i = 0;
     while (johnLennonArray[i]<johnLennonFacts.length){
       text += johnLennonFacts[i]+"!!!";
