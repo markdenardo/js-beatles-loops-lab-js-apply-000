@@ -12,9 +12,10 @@
     var i=0;
     facts = [];
       while (i<factsArray.length){
-      factsArray[i]+"!!!";
+      facts.push(factsArray[i]+"!!!");
       i++;
     }
+   return facts;
  }
  
  function iLoveTheBeatles(iLoveTheBeatles){
