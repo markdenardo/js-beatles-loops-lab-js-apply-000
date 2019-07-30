@@ -13,7 +13,8 @@
     var facts = [];
    
     while (factsArray[i]<factsArray.length){
-      
+      return facts[i]+"!!!";
+      i++;
     }
  }
  
