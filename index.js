@@ -12,7 +12,8 @@
     var i=0;
     
     while (factsArray[i]<factsArray.length){
-      facts += factsArray[i]+"!!!";
+      
+       += factsArray[i]+"!!!";
       i++;
     }
  }
