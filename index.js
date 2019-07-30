@@ -10,7 +10,7 @@
  
  function johnLennonFacts(factsArray){
     var i = 0;
-    while (johnLennonArray[i]<johnLennonFacts.length){
+    while (factsArray[i]<factsArray.length){
       text += johnLennonFacts[i]+"!!!";
       i++;
     }
